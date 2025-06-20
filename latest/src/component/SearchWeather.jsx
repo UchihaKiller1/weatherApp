@@ -1,5 +1,6 @@
 import React, {useState} from "react";
 export default SearchWeather;
+import axios from "axios";
 
 
 function SearchWeather(){
